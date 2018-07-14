@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "One dark that shows your current tab better.",
+  "name": "Chrome one dark",
+  "theme": {
+    "colors": {
+      "frame": [44, 49, 58, 0.9],
+      "ntp_background": [40, 44, 52],
+      "frame_inactive": [40, 44, 52, 0.8],
+      "toolbar": [60, 60, 60],
+      "bookmark_text": [127, 127, 127],
+      "tab_text": [253, 253, 253],
+      "tab_background_text": [144, 146, 149]
+    },
+    "images": {
+      "theme_tab_background": "images/theme_tab_background.png"
+    }
+  }
+}
